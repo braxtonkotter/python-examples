@@ -84,4 +84,4 @@ def main():
             print("\nSorry, but", choice, "isn't a valid choice.")
 
 main()
-("\n\nPress the enter key to exit.") 
+input("\n\nPress the enter key to exit.") 
